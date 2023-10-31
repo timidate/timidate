@@ -1,8 +1,11 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Faça uma breve aprensentação sua com o seu nome e não esqueça a <strong>Sua área</strong>.<br>
-  Diga o que você está fazendo no momento, se trabalha ou estuda.
+  Ingressei no setor de tecnologia em 2019, onde iniciei minha jornada com foco em suporte e implementação de sistemas. Naquele mesmo ano, obtive a oportunidade de ingressar no Banco BV como aprendiz de tecnologia, o que me permitiu trabalhar em diversas equipes (squads) e participar ativamente de rituais ágeis, como planejamento, reuniões diárias, revisões e retrospectivas Scrum.
+Em uma dessas equipes, desempenhei o papel de desenvolvedora de back-end, utilizando tecnologias como Java, Spring Boot e Camel em um projeto com arquitetura hexagonal. Essa experiência foi fundamental para aprimorar minhas habilidades e conhecimentos na área.
+Em 2022, avancei na minha carreira e assumi o cargo de desenvolvedora Full Stack Júnior, trabalhando com as linguagens Java e JavaScript. Além disso, adquiri conhecimento em bancos de dados, com ênfase no SQL Server.
+Minha jornada profissional também me proporcionou familiaridade com várias ferramentas essenciais, como JIRA, Jenkins, Bitbucket, Sonar, Spinnaker, Eclipse, Intellij IDEA e GIT Bash. Tenho habilidades de comunicação em inglês em nível básico a técnico.
+Estou comprometida em continuar a aprimorar minhas habilidades e conhecimentos na área de tecnologia, buscando oportunidades para contribuir de forma significativa em projetos desafiadores e inovadores.
 </p>
 
 <p align="left">
