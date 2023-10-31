@@ -12,15 +12,14 @@
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bruna-timidate/"/></a>
 <h3 align="left">Idiomas e ferramentas:</h3>
 
- <a href="https:// www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"alt= "java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
 
 ##
 <div>
 
  
 <a href="https://github.com/Anacarolineoliveira">
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=eniloracz&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eniloracz&layout=compact&langs_count=7&theme=radical"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=timidate&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=timidate&layout=compact&langs_count=7&theme=radical"/>
 
 
 ![Snake animation](https://github.com/DanielsOfficial0102/DanielsOfficial0102/blob/output/github-contribution-grid-snake.svg)
