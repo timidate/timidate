@@ -1,11 +1,11 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Ingressei no setor de tecnologia em 2019, onde iniciei minha jornada com foco em suporte e implementação de sistemas. Naquele mesmo ano, obtive a oportunidade de ingressar no Banco BV como aprendiz de tecnologia, o que me permitiu trabalhar em diversas equipes (squads) e participar ativamente de rituais ágeis, como planejamento, reuniões diárias, revisões e retrospectivas Scrum.
-Em uma dessas equipes, desempenhei o papel de desenvolvedora de back-end, utilizando tecnologias como Java, Spring Boot e Camel em um projeto com arquitetura hexagonal. Essa experiência foi fundamental para aprimorar minhas habilidades e conhecimentos na área.
-Em 2022, avancei na minha carreira e assumi o cargo de desenvolvedora Full Stack Júnior, trabalhando com as linguagens Java e JavaScript. Além disso, adquiri conhecimento em bancos de dados, com ênfase no SQL Server.
-Minha jornada profissional também me proporcionou familiaridade com várias ferramentas essenciais, como JIRA, Jenkins, Bitbucket, Sonar, Spinnaker, Eclipse, Intellij IDEA e GIT Bash. Tenho habilidades de comunicação em inglês em nível básico a técnico.
-Estou comprometida em continuar a aprimorar minhas habilidades e conhecimentos na área de tecnologia, buscando oportunidades para contribuir de forma significativa em projetos desafiadores e inovadores.
+ Comecei a atuar na área de tecnologia em 2019, com suporte e implantação a sistemas. No mesmo ano passei no processo do Banco BV como aprendiz de tecnologia onde tive a oportunidade de atuar em diversas squads, participando das cerimônias do scrum como planning, daily, review e das retrospectivas. Na squad atuei como desenvolvedora de back end Java, spring boot e camel em projeto hexagonal. 
+Em 2022 comecei a atuar como desenvolvedora Full Stack Jr utilizando a linguagem java e JavaScript. 
+
+Conhecimento em banco de dados, SQL Server. 
+Principais Ferramentas JIRA, Jenkins, Bitbucket, Sonar, Spinnaker, Eclipse, Intellij IDEA, GIT bash. Inglês básico/técnico.
 </p>
 
 <p align="left">
