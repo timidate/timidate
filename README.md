@@ -11,7 +11,7 @@ Principais Ferramentas JIRA, Jenkins, Bitbucket, Sonar, Spinnaker, Eclipse, Inte
 <p align="left">
  
 
-  <a href="https://www.linkedin.com/in/bruna-timidate/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"alt="bru-timidate" height="30" width="40" /></a>
+
 <h3 align="left">Idiomas e ferramentas:</h3>
 
 ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
